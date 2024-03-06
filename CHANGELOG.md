@@ -2,6 +2,13 @@
 
 
 
+## v0.1.1 (2024-03-06)
+
+### Fix
+
+* fix: reconnect some structures ([`968d6fa`](https://github.com/JhonathanOrtiz/semantic-release-test/commit/968d6fa3642f8de2c1040d929b57cae5dd2e22e4))
+
+
 ## v0.1.0 (2024-03-06)
 
 ### Feature
