@@ -2,6 +2,13 @@
 
 
 
+## v0.1.0 (2024-03-06)
+
+### Feature
+
+* feat: add main file ([`f8a25c1`](https://github.com/JhonathanOrtiz/semantic-release-test/commit/f8a25c135ae0c9ed2696d33bc4d75fc53594562f))
+
+
 ## v0.0.0 (2024-03-06)
 
 ### Documentation
